@@ -19,8 +19,7 @@ h2{font-variant: small-caps;
 }
 .line{font-size: 1.6em;
     line-height: 0.7;
-    padding-left: 45px;
-    text-align: left;
+    text-align: center;
     color: white;
     letter-spacing: 0.01em;
 }
