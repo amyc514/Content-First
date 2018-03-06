@@ -1,4 +1,4 @@
-# Responsive Haiku
+# Design Haiku
 ## by Amy Chan
 
 Grids build structure.
