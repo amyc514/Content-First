@@ -1,1 +1,28 @@
-.text
+.text{margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: verdana;
+    max-width: 960px;
+    background-color: #996666;
+}
+h1{color: white;
+    text-transform: uppercase;
+    font-size: 5em;
+    margin-top: 80px;
+    margin-bottom: 45px;
+    text-shadow: 2px 4px 10px black;
+}
+h2{font-variant: small-caps;
+    margin-top: -45px;
+    font-size: 1.4em;
+    margin-bottom: 50px;
+}
+.line{font-size: 1.6em;
+    line-height: 0.7;
+    padding-left: 45px;
+    text-align: left;
+    color: white;
+    letter-spacing: 0.01em;
+}
+.lastsent{font-style: oblique;
+}
