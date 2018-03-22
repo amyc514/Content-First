@@ -4,3 +4,29 @@
     margin-right: auto;
     font-family: verdana;
 }
+h1{
+    text-align: center;
+    font-size: 4em;
+    color: #003300;
+}
+h2{color: #669966;
+    border-bottom: 4px;
+    border-bottom-color: #003300;
+    border-bottom-style: ridge;
+}
+.text{
+    color: #003300;
+    font-size: 1em;
+    line-height: 1.6;
+}
+.titlecolor{
+	color: #669966;
+    border-bottom: 4px;
+    border-bottom-color: #003300;
+    border-bottom-style: ridge;
+}
+.letter{
+    font-size: 2em;
+    letter-spacing: .3em;
+    text-align: justify;
+}
