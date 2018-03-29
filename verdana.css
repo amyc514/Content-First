@@ -1,8 +1,9 @@
-.whole{
-    max-width: 960px;
+.whole {
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
     font-family: verdana;
+    margin-bottom: 300px;
 }
 h1{
     text-align: center;
@@ -19,14 +20,69 @@ h2{color: #669966;
     font-size: 1em;
     line-height: 1.6;
 }
-.titlecolor{
-	color: #669966;
-    border-bottom: 4px;
+.titlecolor{color: #669966;
+    border-bottom: 2px;
     border-bottom-color: #003300;
     border-bottom-style: ridge;
+    padding-bottom: 4px;
 }
-.letter{
+.letter {
     font-size: 2em;
-    letter-spacing: .3em;
+    letter-spacing: .2em;
     text-align: justify;
+    line-height: 1.5em;
+    margin-top: -14px;
+    margin-bottom: 50px;
 }
+.headshot{
+    float: left;
+    margin-top: 4px;
+    padding-right: 1em;
+}
+.storefront{
+    float: left;
+    margin-top: 4px;
+    padding-right: 1em;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.style{
+    font-size: 2em;
+    line-height: .6em;
+}
+.first{
+    margin-top: -7px;
+}
+.last {
+    margin-bottom: 100px;
+}
+.head2 {
+    margin-top: 50px;
+}
+.navigation {
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 70px;
+    word-spacing: 1.5em;
+    font-variant: all-small-caps;
+}
+.space {
+    word-spacing: 0px;
+}
+.input{
+        border: none; 
+        caret-color: transparent;
+        
+        font-size: 30px;
+        font-family: verdana; 
+        background: #dadada;
+        padding: 10px;
+    }
+    input:focus,
+    input:active {
+        outline: none;
+    }
