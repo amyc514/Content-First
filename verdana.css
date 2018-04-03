@@ -125,4 +125,19 @@ input:active {
     padding-bottom: 4px;
     font-size: 0.8em;
 }
+.headshot {
+    float: left;
+    margin-top: 4px;
+    padding-right: 4em;
+}
+.text {
+    color: #003300;
+    font-size: 0.6em;
+    line-height: 1.5;
+}
+.storefront {
+    float: left;
+    margin-top: 4px;
+    padding-right: 4em;
+}
 }
