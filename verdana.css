@@ -88,19 +88,21 @@ h2 {
 }
 
 a {
-  color: #669966;
+    color: #669966;
+    text-decoration: none;
 }
 
 .space {
   word-spacing: 0px;
 }
 
-.input {
-  font: 30px verdana;
-  border: none;
-  caret-color: transparent;
-  background: #dadada;
-  padding: 10px;
+input {
+    padding-left: 10px;
+    padding-bottom: 200px;
+    padding-right: 200px;
+    padding-top: 4px;
+    font-family: verdana;
+    font-size: 1.5em;
 }
 
 input:focus,
