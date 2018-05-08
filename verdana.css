@@ -91,7 +91,9 @@ a {
     color: #669966;
     text-decoration: none;
 }
-
+a:hover{
+	color: #003300;
+}
 .space {
   word-spacing: 0px;
 }
